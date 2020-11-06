@@ -1,0 +1,23 @@
+{
+  "name": "zipcodems",
+  "version": "1.0.0",
+  "description": "Zipcode distance microservice as an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepehrfard/zipCodeMS.git"
+  },
+  "author": "sepehr fard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sepehrfard/zipCodeMS/issues"
+  },
+  "homepage": "https://github.com/sepehrfard/zipCodeMS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
