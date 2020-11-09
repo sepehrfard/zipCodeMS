@@ -18,6 +18,7 @@
   "homepage": "https://github.com/sepehrfard/zipCodeMS#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongodb": "^3.6.3",
     "request": "^2.88.2"
   }
 }
